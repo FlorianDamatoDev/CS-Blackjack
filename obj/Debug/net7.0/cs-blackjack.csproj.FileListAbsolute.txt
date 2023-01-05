@@ -1,0 +1,15 @@
+/Users/floriandamato/Desktop/cs-blackjack/bin/Debug/net7.0/cs-blackjack
+/Users/floriandamato/Desktop/cs-blackjack/bin/Debug/net7.0/cs-blackjack.deps.json
+/Users/floriandamato/Desktop/cs-blackjack/bin/Debug/net7.0/cs-blackjack.runtimeconfig.json
+/Users/floriandamato/Desktop/cs-blackjack/bin/Debug/net7.0/cs-blackjack.dll
+/Users/floriandamato/Desktop/cs-blackjack/bin/Debug/net7.0/cs-blackjack.pdb
+/Users/floriandamato/Desktop/cs-blackjack/obj/Debug/net7.0/cs-blackjack.csproj.AssemblyReference.cache
+/Users/floriandamato/Desktop/cs-blackjack/obj/Debug/net7.0/cs-blackjack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/floriandamato/Desktop/cs-blackjack/obj/Debug/net7.0/cs-blackjack.AssemblyInfoInputs.cache
+/Users/floriandamato/Desktop/cs-blackjack/obj/Debug/net7.0/cs-blackjack.AssemblyInfo.cs
+/Users/floriandamato/Desktop/cs-blackjack/obj/Debug/net7.0/cs-blackjack.csproj.CoreCompileInputs.cache
+/Users/floriandamato/Desktop/cs-blackjack/obj/Debug/net7.0/cs-blackjack.dll
+/Users/floriandamato/Desktop/cs-blackjack/obj/Debug/net7.0/refint/cs-blackjack.dll
+/Users/floriandamato/Desktop/cs-blackjack/obj/Debug/net7.0/cs-blackjack.pdb
+/Users/floriandamato/Desktop/cs-blackjack/obj/Debug/net7.0/cs-blackjack.genruntimeconfig.cache
+/Users/floriandamato/Desktop/cs-blackjack/obj/Debug/net7.0/ref/cs-blackjack.dll
